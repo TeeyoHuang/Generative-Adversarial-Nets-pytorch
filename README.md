@@ -1,6 +1,6 @@
 # Generative-Adversarial-Nets-pytorch
 
-This the pytorch version of Generative Adversarial Nets
+This is the pytorch version of Generative Adversarial Nets
   
 # Requirments  
 
@@ -17,3 +17,6 @@ Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 
 # Result  
 ![image](https://github.com/TeeyoHuang/Generative-Adversarial-Nets-pytorch/blob/master/20-18800.png)
+
+# Blog  
+[teeyohuang](https://blog.csdn.net/Teeyohuang/article/details/82391022)
